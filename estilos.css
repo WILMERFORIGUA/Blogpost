@@ -1,6 +1,6 @@
 body
 {
-    color: #777;
+    color: #33A;
     text-align: center;
     font-family: "Courier";
     font-size: 16px;
@@ -10,7 +10,7 @@ body
 #cabecera
 {
     background: #33A;
-    color: white;
+    color: red;
     font-weight: bold;
     margin: 0;
     padding: 0;
