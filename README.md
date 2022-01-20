@@ -1,2 +1,2 @@
 # Blogpost
-basic blog
+basic blog  created with help of Platzi.
